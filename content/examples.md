@@ -4,7 +4,7 @@ date: 2026-03-16
 order: 3
 ---
 
-<!-- SPDX-License-Identifier: PMPL-1.0-or-later -->
+<!-- SPDX-License-Identifier: MPL-2.0 -->
 <!-- Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) -->
 
 # Examples
@@ -29,7 +29,7 @@ metadata:
   version: 3.2.1
   description: Pre-commit validation tool for RSR repositories
   author: Jonathan D.A. Jewell
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 repository:
   forge: github
@@ -78,7 +78,7 @@ metadata:
   name: k9-svc-deploy
   version: 1.0.0
   description: Deployment manifest for k9-svc container
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 deployment:
   image: cgr.dev/hyperpolymath/k9-svc:1.0.0

@@ -4,7 +4,7 @@ date: 2026-03-16
 order: 5
 ---
 
-<!-- SPDX-License-Identifier: PMPL-1.0-or-later -->
+<!-- SPDX-License-Identifier: MPL-2.0 -->
 <!-- Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) -->
 
 # Get Started
@@ -83,7 +83,7 @@ metadata:
   version: 1.0.0
   description: My first self-validating component
   author: Your Name
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 content:
   greeting: "Hello from K9!"
@@ -269,7 +269,7 @@ metadata:
   name: my-service
   version: 2.0.0
   description: Production deployment for my-service
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 container:
   image: cgr.dev/my-org/my-service:2.0.0
@@ -292,7 +292,7 @@ metadata:
   name: app-config
   version: 1.0.0
   description: Runtime configuration for the application
-  license: PMPL-1.0-or-later
+  license: MPL-2.0
 
 database:
   host: localhost
