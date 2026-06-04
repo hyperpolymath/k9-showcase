@@ -1,6 +1,5 @@
 // SPDX-License-Identifier: MPL-2.0
-// Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) <j.d.a.jewell@open.ac.uk>
-
+// Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 import { assertEquals, assert } from "https://deno.land/std@0.208.0/assert/mod.ts";
 
 // Unit tests: Basic K9 example structure validation

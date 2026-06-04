@@ -1,10 +1,13 @@
+<!--
+SPDX-License-Identifier: MPL-2.0
+Copyright (c) Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
+-->
 ---
 title: Integrations
 date: 2026-03-16
 order: 4
 ---
 
-<!-- SPDX-License-Identifier: MPL-2.0 -->
 <!-- Copyright (c) 2026 Jonathan D.A. Jewell (hyperpolymath) -->
 
 # Integrations
