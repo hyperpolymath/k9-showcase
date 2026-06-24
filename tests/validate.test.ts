@@ -18,7 +18,7 @@ Deno.test("Unit: K9 examples contain required sections", async () => {
 
 Deno.test("Unit: K9 examples have SPDX headers", async () => {
   const content = await Deno.readTextFile("content/examples.md");
-  const matches = content.match(/SPDX-License-Identifier: PMPL-1\.0-or-later/g);
+  const matches = content.match(/SPDX-License-Identifier: MPL-2.0\.0-or-later/g);
   assert(matches !== null && matches.length >= 1, "Should have SPDX headers");
 });
 

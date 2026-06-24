@@ -1,4 +1,4 @@
-// SPDX-License-Identifier: MPL-2.0
+// SPDX-License-Identifier: CC-BY-SA-4.0
 // SPDX-FileCopyrightText: 2026 Jonathan D.A. Jewell <j.d.a.jewell@open.ac.uk>
 = k9-showcase
 :toc: preamble
@@ -8,7 +8,7 @@
 
 *Content-only showcase of K9 document examples, templates, and rendered output.*
 
-image:https://img.shields.io/badge/License-PMPL--1.0--or--later-blue.svg[License: MPL-2.0]
+image:https://img.shields.io/badge/License-MPL--2.0-blue.svg[License: MPL-2.0]
 image:https://img.shields.io/badge/format-K9-green.svg[K9]
 image:https://img.shields.io/badge/type-content--only-lightgrey.svg[Content only]
 
